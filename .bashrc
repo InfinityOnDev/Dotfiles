@@ -150,7 +150,5 @@ if command -v zoxide &>/dev/null; then
   eval "$(zoxide init bash)"
 fi
 
-. "$HOME/.cargo/env"
-
 # Created by `pipx` on 2025-01-05 15:58:02
 export PATH="$PATH:/home/infinity/.local/bin"
