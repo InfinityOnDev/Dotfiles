@@ -11,7 +11,7 @@ vim.opt.breakindent = true
 vim.api.nvim_set_keymap("i", "jk", "<ESC>", { noremap = true })
 
 vim.o.number = true
-vim.o.relativenumber = false
+vim.o.relativenumber = true
 vim.o.mouse = "a"
 vim.o.showmode = false
 --vim.o.clipboard = "unnamed"
