@@ -25,3 +25,5 @@ vim.cmd.highlight({ "Normal", "guibg=NONE" })
 vim.cmd.highlight({ "Normal", "ctermbg=NONE" })
 vim.o.termguicolors = true --24 bit colors
 
+-- incremental search 
+vim.o.incsearch = true
