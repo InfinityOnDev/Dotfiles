@@ -14,8 +14,9 @@ vim.o.number = true
 vim.o.relativenumber = true
 vim.o.mouse = "a"
 vim.o.showmode = false
+
 -- Use System Clipboard
-vim.o.clipboard = "unnamedplus"
+--vim.o.clipboard = "unnamedplus"
 
 vim.o.cursorline = true
 vim.o.cursorlineopt = "number"
