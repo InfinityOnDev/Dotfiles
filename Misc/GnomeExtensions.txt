@@ -7,7 +7,7 @@ Gnome Extensions
 4. Transparent Topbar 
 5. Rounded Corners 
 6. Tilling Assisttant 
-7. Search Light (Settinsgs: Window - Tint, Primary Accelerator keybind - Super + f)
+7. Search Light (Settinsgs:Primary Accelerator keybind - Super + f)
 ___________________________
 System Settings 
 
