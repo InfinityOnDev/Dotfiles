@@ -6,3 +6,4 @@ Download the following flatpaks
 3. Obsidian 
 4. Warehouse 
 5. GPU Screen Recorder 
+6. Papers 
