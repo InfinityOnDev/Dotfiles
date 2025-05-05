@@ -11,7 +11,7 @@ Gnome Extensions
 ___________________________
 System Settings 
 
-1. Interaface Font: System Default (size = 14) 
+1. Interaface Font: System Default ( Adwaita Sans, size = 14) 
 2. Document Font: Nimbus Roman (size = 14)
 3. Terminal Font: Fira Code (size = 15)
 
