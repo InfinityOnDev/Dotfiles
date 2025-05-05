@@ -4,7 +4,7 @@ return {
 	config = function()
 		require("lualine").setup({
       options = {
-				theme = "solarized_dark",
+				theme = "dracula",
 			},
 		})
 	end,
