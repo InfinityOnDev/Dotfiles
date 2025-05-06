@@ -152,3 +152,4 @@ fi
 
 # Created by `pipx` on 2025-01-05 15:58:02
 export PATH="$PATH:/home/infinity/.local/bin"
+. "$HOME/.cargo/env"
