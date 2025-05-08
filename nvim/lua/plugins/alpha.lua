@@ -5,9 +5,10 @@ return {
 	},
 	config = function()
 		local alpha = require("alpha")
-		local dashboard = require("alpha.themes.startify")
+		local startify = require("alpha.themes.startify")
 
-		dashboard.section.header.val = {
+		-- Replace the default header with your custom ASCII art
+		startify.section.header.val = {
 			[[                                                                       ]],
 			[[                                                                       ]],
 			[[                                                                       ]],
@@ -25,6 +26,7 @@ return {
 			[[                                                                       ]],
 		}
 
-		alpha.setup(dashboard.opts)
+		alpha.setup(startify.config)
 	end,
 }
+

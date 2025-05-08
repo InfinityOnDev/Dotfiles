@@ -22,12 +22,12 @@ return {
     "williamboman/mason-lspconfig.nvim",
     config = function()
       require("mason-lspconfig").setup({
-        ensure_installed = { "lua_ls", "pyright", "clangd", "ruff", "bashls" },
+        ensure_installed = { "lua_ls", "pyright", "clangd", "ruff", "bashls", },
       })
     end,
   },
 
-  -- LSP Configuration using Neovim 0.11+ API (not lazy-loaded!)
+  -- LSP Configuration using Neovim 0.11+ API (not lazy-loaded)
   {
     "neovim/nvim-lspconfig",
     config = function()
@@ -35,7 +35,7 @@ return {
       vim.diagnostic.config({
         virtual_text = true, -- show inline errors
         virtual_lines = false,
-        signs = true,    -- show signs in the gutter
+        signs = true,    -- show signs in the gutter.nvim
         underline = true, -- underline errors in text
         update_in_insert = false,
         severity_sort = false,
