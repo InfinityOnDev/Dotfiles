@@ -22,19 +22,19 @@ size = 15.3
 builtin_box_drawing = true
 
 [font.normal]
-family = "Fira Code"
+family = "Fira Code Retina"
 style = "Medium"
 
 [font.bold]
-family = "Fira Code"
+family = "Fira Code Retina"
 style = "Bold"  
 
 [font.italic]
-family = "Fira Code"
+family = "Fira Code Retina"
 style = "Regular"
 
 [font.bold_italic]
-family = "Fira Code"
+family = "Fira Code Retina"
 style = "Bold Italic"  
 
 [font.offset]
