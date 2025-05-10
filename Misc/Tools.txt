@@ -1,12 +1,11 @@
 Use the native package Manager to install the following tools.Yank line and paste. 
 
-neovim kitty btop git clang cargo npn pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv 
+neovim alacritty btop git clang cargo npm pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv 
 _________________________________________________________________________________________________
 
 Download the following tools from GitHub 
 
-1. Yazi 
-2. OhMyBash 
-3. NerdFonts Fira Code 
-4. Autocpufreq
+1. OhMyBash 
+2. NerdFonts Fira Code 
+3. Autocpufreq
 __________________________________________________________________________________________________
