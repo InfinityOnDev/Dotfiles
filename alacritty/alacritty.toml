@@ -18,30 +18,30 @@ columns = 132
 lines = 34
 
 [font]
-size = 15.3
+size = 15.5
 builtin_box_drawing = true
 
 [font.normal]
-family = "Fira Code Retina"
+family = "Fira Code"
 style = "Medium"
 
 [font.bold]
-family = "Fira Code Retina"
-style = "Bold"  
+family = "Fira Code"
+style = "Semibold"  
 
 [font.italic]
-family = "Fira Code Retina"
+family = "Fira Code"
 style = "Regular"
 
 [font.bold_italic]
-family = "Fira Code Retina"
+family = "Fira Code"
 style = "Bold Italic"  
 
 [font.offset]
 y = 6 
 
 [font.glyph_offset]
-y = 1
+y = 2
 
 [scrolling]
 history = 10000
