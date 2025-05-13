@@ -18,23 +18,23 @@ columns = 132
 lines = 34
 
 [font]
-size = 16
+size = 15.25
 builtin_box_drawing = true
 
 [font.normal]
-family = "CaskaydiaCoveNerdFontMono"
+family = "Fira Code"
 style = "Medium"
 
 [font.bold]
-family = "CaskaydiaCoveNerdFontMono"
+family = "Fira Code"
 style = "SemiBold"  
 
 [font.italic]
-family = "CaskaydiaCoveNerdFontMono"
+family = "Fira Code"
 style = "Regular"
 
 [font.bold_italic]
-family = "CaskaydiaCoveNerdFontMono"
+family = "Fira Code"
 style = "Bold Italic"  
 
 [font.offset]
