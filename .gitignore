@@ -1,0 +1,18 @@
+# Ignore browser cache, temp data, crash reports, etc.
+zen-browser/**/cache2/
+zen-browser/**/GPUCache/
+zen-browser/**/Code Cache/
+zen-browser/**/Crashpad/
+zen-browser/**/Safe Browsing/
+zen-browser/**/ShaderCache/
+zen-browser/**/Temp/
+zen-browser/**/Session Storage/
+zen-browser/**/Storage/ext/
+
+# Ignore common OS files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files or other temp config
+*.lock
+
