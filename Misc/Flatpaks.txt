@@ -1,8 +1,8 @@
 
 Download the following flatpaks 
 
-1. Zen Browser 
-2. Chrome / Brave Browser 
-3. Obsidian 
-4. Warehouse 
-5. GPU Screen Recorder 
+1. Chrome / Brave Browser 
+2. Obsidian 
+3. Warehouse 
+4. GPU Screen Recorder 
+5. Dev Toolbox
