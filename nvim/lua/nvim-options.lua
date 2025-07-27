@@ -34,6 +34,9 @@ vim.keymap.set('n', '<c-j>', ':wincmd j<CR>')
 vim.keymap.set('n', '<c-k>', ':wincmd k<CR>')
 vim.keymap.set('n', '<c-l>', ':wincmd l<CR>')
 
+-- no swapfiles 
+vim.opt.swapfile = false
+
 -- set encoding 
 vim.opt.encoding = "UTF-8"
 
