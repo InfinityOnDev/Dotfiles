@@ -1,11 +1,11 @@
 Use the native package Manager to install the following tools.Yank line and paste. 
 
-neovim alacritty btop git clang cargo npm pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv 
+neovim alacritty btop git clang cargo npm pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv cronie
 _________________________________________________________________________________________________
 
 Download the following tools from GitHub 
 
 1. OhMyBash 
-2. NerdFonts Fira Code 
+2. NerdFonts Fira Code, Cascadia Mono
 3. Autocpufreq
 __________________________________________________________________________________________________
