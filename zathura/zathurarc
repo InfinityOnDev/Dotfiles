@@ -1,0 +1,9 @@
+#=========================================================================================================================================
+#=========================================================================================================================================
+
+set recolor true            # night mode (inverts colors)
+set recolor-keephue true    # preserve colors when recoloring
+set smooth-scrolling true   # smoother scroll
+set selection-clipboard clipboard   # copy goes to system clipboard
+set show-statusbar false    # hide bottom bar
+
