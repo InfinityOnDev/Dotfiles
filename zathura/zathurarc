@@ -4,4 +4,5 @@
 set recolor true            # night mode (inverts colors)
 set recolor-keephue true    # preserve colors when recoloring
 set selection-clipboard clipboard   # copy goes to system clipboard
+set guioptions none
 
