@@ -11,6 +11,8 @@ export OSH='/home/infinity/.oh-my-bash'
 # it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="purity"
 
+# set vi mode in Bash (triggers with <Esc>)
+set -o vi 
 # If you set OSH_THEME to "random", you can ignore themes you don't like.
 # OMB_THEME_RANDOM_IGNORED=("powerbash10k" "wanelo")
 
