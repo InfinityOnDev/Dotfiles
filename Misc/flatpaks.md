@@ -1,9 +1,7 @@
 
 Download the following flatpaks 
 
-1. Chrome / Brave Browser 
+1. Chrome/Brave
 2. Obsidian 
 3. Warehouse 
 4. GPU Screen Recorder 
-5. Dev Toolbox
-6. IntelliJ IDEA
