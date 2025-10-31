@@ -4,20 +4,19 @@ Gnome Extensions
 1. Blur My Shell 
 2. Dash to Dock 
 3. Hide Top bar 
-4. Rounded Window Corners Reborn
-5. Spacebar (disbale toggle overview)
-6. Tilling Assistant 
-7. Transparent Topbar 
+4. Spacebar (disbale toggle overview)
+5. Tilling Assistant 
+6. Transparent Topbar 
 ___________________________
 System Settings (Gnome Tweaks)
 
 1. Interaface Font: System Default ( Adwaita Sans, size = 14) 
 2. Document Font: Nimbus Roman (size = 14)
-3. Terminal Font: Fira Code Retina (size = 15)
+3. Terminal Font: Fira Code Retina (size = 13)
 
 More Options 
 
-1. Font Scaling Factor = 1.25
+1. Font Scaling Factor = 1.00
 2. Hinting: Slight  
 3. Anti-Aliasing : Sub-Pixel (for LCD screens)
 ___________________________

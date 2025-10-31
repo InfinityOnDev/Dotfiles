@@ -3,7 +3,7 @@ WINIT_UNIX_BACKEND = "wayland"
 
 [window]
 decorations = "none"
-opacity = 0.67
+opacity = 0.70
 startup_mode = "Windowed"
 dynamic_padding = false
 title = "Alacritty"
@@ -18,7 +18,7 @@ columns = 132
 lines = 34
 
 [font]
-size = 15.25
+size = 12.50
 builtin_box_drawing = true
 
 [font.normal]
