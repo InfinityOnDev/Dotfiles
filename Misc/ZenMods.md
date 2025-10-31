@@ -3,15 +3,13 @@
 1. Better Find Bar 
 2. Better Letterboxing 
 3. Catppuccin Mocha (Theme) 
-4. Cleaned URL Bar 
-5. Cleaner Extension Menu
-6. Hide Tab Mute 
-7. Minimal Sidebar 
-8. No Search Shortcut Icons 
-9. Sleek Border 
-10. Smaller Compact Mode  
-11. Super Sleek UI 
-12. Super URL Bar (leave the custom color bar empty for transparency)
+4. Cleaner Extension Menu
+5. Hide Tab Mute 
+6. Minimal Sidebar 
+7. No Search Shortcut Icons 
+8. Sleek Border 
+9. Smaller Compact Mode  
+10. Super Sleek UI 
 
 ___
 
