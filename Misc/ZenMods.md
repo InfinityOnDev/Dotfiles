@@ -10,6 +10,7 @@
 8. Sleek Border 
 9. Smaller Compact Mode  
 10. Super Sleek UI 
+11. Cleaned URL Bar (transparent blurred URL bar)
 
 ___
 
