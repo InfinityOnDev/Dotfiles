@@ -134,6 +134,8 @@ environment {
   TERMINAL "alacritty"
   XCURSOR_THEME "Bibata-Modern-Ice"
   XCURSOR_SIZE "24"
+  GDK_DPI_SCALE "1.26"
+  QT_FONT_DPI "125"
 }
 hotkey-overlay {
     skip-at-startup
