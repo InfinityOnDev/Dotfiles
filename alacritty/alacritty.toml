@@ -18,7 +18,7 @@ columns = 132
 lines = 34
 
 [font]
-size = 12.50
+size = 12
 builtin_box_drawing = true
 
 [font.normal]
