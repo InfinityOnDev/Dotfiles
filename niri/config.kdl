@@ -92,9 +92,8 @@ layout {
     // Alternatively, you can override it with a window rule called
     // `draw-border-with-background`.
     border {
-        off
-        width 4
-        active-color   "#707070"      // Neutral gray
+        width 1
+        active-color   "#00d9ff"      // Cyan
         inactive-color "#d0d0d0"      // Light gray
         urgent-color   "#cc4444"      // Softer red
     }
@@ -263,6 +262,7 @@ binds {
     Mod+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
     Mod+Shift+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
     Mod+B { spawn "zen-browser"; }
+    Mod+O { spawn "obsidian" "--enable-features=UseOzonePlatform" "--ozone-platform=wayland"; }
 
     // === Security ===
     Mod+Alt+L hotkey-overlay-title="Lock Screen" {
