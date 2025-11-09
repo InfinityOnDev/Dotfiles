@@ -299,9 +299,9 @@ binds {
     Mod+Q repeat=false { close-window; }
     Mod+F { maximize-column; }
     Mod+Shift+F { fullscreen-window; }
-    Mod+Shift+T { toggle-window-floating; }
+    Mod+Shift+W { toggle-window-floating; }
     Mod+Shift+V { switch-focus-between-floating-and-tiling; }
-    Mod+W { toggle-column-tabbed-display; }
+    Mod+Shift+T { toggle-column-tabbed-display; }
 
     // === Focus Navigation ===
     Mod+Left  { focus-column-left; }
