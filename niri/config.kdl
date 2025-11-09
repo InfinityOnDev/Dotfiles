@@ -262,10 +262,9 @@ binds {
     Mod+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
     Mod+Shift+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
     Mod+B { spawn "zen-browser"; }
-    Mod+O { spawn "obsidian" "--enable-features=UseOzonePlatform" "--ozone-platform=wayland"; }
 
     // === Security ===
-    Mod+Alt+L hotkey-overlay-title="Lock Screen" {
+    Mod+Ctrl+L hotkey-overlay-title="Lock Screen" {
         spawn "dms" "ipc" "call" "lock" "lock";
     }
     Mod+Shift+E { quit; }
@@ -334,10 +333,10 @@ binds {
     //Mod+Ctrl+Down  { focus-monitor-down; }
     //Mod+Ctrl+Up    { focus-monitor-up; }
     Mod+Ctrl+Right { focus-monitor-right; }
-    Mod+Ctrl+H     { focus-monitor-left; }
-    Mod+Ctrl+J     { focus-monitor-down; }
-    Mod+Ctrl+K     { focus-monitor-up; }
-    Mod+Ctrl+L     { focus-monitor-right; }
+    Mod+Alt+H     { focus-monitor-left; }
+    Mod+Alt+J     { focus-monitor-down; }
+    Mod+Alt+K     { focus-monitor-up; }
+    Mod+Alt+L     { focus-monitor-right; }
 
     // === Move to Monitor ===
     Mod+Shift+Ctrl+Left  { move-column-to-monitor-left; }
