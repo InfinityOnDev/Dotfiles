@@ -156,6 +156,4 @@ fi
 # Created by `pipx` on 2025-01-05 15:58:02
 export PATH="$PATH:/home/infinity/.local/bin"
 . "$HOME/.cargo/env"
-# rectifying less behaviour to not retain contents on exit
-export LESS='-R'
-export PATH=$PATH:/home/infinity/idea-IC-251.26927.53/bin 
+eval "$(uv generate-shell-completion bash)"
