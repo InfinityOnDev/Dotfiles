@@ -237,6 +237,11 @@ window-rule {
     geometry-corner-radius 12
     clip-to-geometry true
 }
+window-rule {
+    match app-id="zen" // app-id for zen-browser is zen
+    open-maximized true
+}
+
 binds {
     // === System & Overview ===
     Mod+Tab { spawn "niri" "msg" "action" "toggle-overview"; }
