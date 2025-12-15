@@ -92,13 +92,13 @@ layout {
     // Alternatively, you can override it with a window rule called
     // `draw-border-with-background`.
     border {
-        width 1
+        width 1.5
         active-color   "#00d9ff"      // Cyan
         inactive-color "#d0d0d0"      // Light gray
         urgent-color   "#cc4444"      // Softer red
     }
     focus-ring {
-        width 2
+        width 0
         active-color   "#808080"      // Medium gray
         inactive-color "#505050"      // Dark gray
     }
