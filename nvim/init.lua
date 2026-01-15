@@ -24,4 +24,6 @@ require("lazy").setup({
 	install = { colorscheme = { "catppuccin" } },
 	checker = { enabled = true },
 })
+vim.cmd.colorscheme("catppuccin")
+
 require("nvim-options")
