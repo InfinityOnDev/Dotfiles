@@ -268,7 +268,8 @@ binds {
     }
     Mod+N hotkey-overlay-title="Notification Center" { spawn "dms" "ipc" "call" "notifications" "toggle"; }
     Mod+Shift+N hotkey-overlay-title="Notepad" { spawn "dms" "ipc" "call" "notepad" "toggle"; }
-    Mod+B { spawn "zen-browser"; }
+    // Mod+B { spawn "zen-browser"; }
+    Mod+B { spawn "flatpak" "run" "one.ablaze.floorp"; }
 
     // === Security ===
     Mod+Ctrl+L hotkey-overlay-title="Lock Screen" {
