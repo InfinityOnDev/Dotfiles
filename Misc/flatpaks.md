@@ -1,4 +1,3 @@
-
 Download the following flatpaks 
 
 1. Chrome/Brave
@@ -7,4 +6,4 @@ Download the following flatpaks
 4. GPU Screen Recorder 
 5. Floorp Browser
 
-- * Manage permissions as they sometimes prohibit applications from launching. *
+- * Manage permissions as they sometimes prohibit applications from launching (as in the case of Obsidian). *
