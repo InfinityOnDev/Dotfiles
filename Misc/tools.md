@@ -1,6 +1,6 @@
 Use the _native_ package manager to install the following tools.Yank line and paste. 
 
-neovim kitty btop git clang cargo npm pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv cronie zathura zathura-pdf-mupdf zathura-djvu
+neovim alacritty btop git clang cargo npm pipx wget ripgrep fd-find zoxide wl-clipboard gnome-tweaks mpv cronie zathura zathura-pdf-mupdf zathura-djvu
 
 ==========================================================================================================================================
 
