@@ -3,7 +3,7 @@ response='N'
 echo 'Begin flatpak tools installation? (y/N):'
 read response
 
-if [[ $response == 'y' ]] ; then
+if [[ $response =~ ^[yY]$ ]] ; then
   flatpak install -y \
     io.github.flattool.Warehouse/x86_64/stable \
     app/md.obsidian.Obsidian/x86_64/stable \
