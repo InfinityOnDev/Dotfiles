@@ -7,7 +7,7 @@ response='N'
 echo 'This script will download all essential tools, proceed ?: (y/N)'
 read response 
 
-if [[ "$response" == 'y' ]]; then 
+if [[ "$response" =~ ^[yY]$ ]]; then 
 
   echo 'Initializing essential tools download...'
 
@@ -24,7 +24,7 @@ fi
 echo 'Proceed with wallpaper download?: (y/N)'
 read response
 
-if [[ "$response" == 'y' ]]; then 
+if [[ "$response" =~ ^[yY]$ ]]; then 
   echo 'Downloading Wallpapers (~/Pictures/Wallpapers/)'
   mkdir -p ~/Pictures/Wallpapers/
   cd ~/Pictures/Wallpapers/ || exit 1 
@@ -39,6 +39,6 @@ if [[ "$response" == 'y' ]]; then
   exit 0 
 else 
   echo 'Action aborted. Exiting...'
-  exit 1 
+  exit 0 
 fi 
 
